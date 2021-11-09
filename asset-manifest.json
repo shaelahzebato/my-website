@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.d2535845.chunk.css",
+    "main.js": "/my-website/static/js/main.e157f72e.chunk.js",
+    "main.js.map": "/my-website/static/js/main.e157f72e.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.23dd3388.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.23dd3388.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/my-website/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.38f7af8f.chunk.js": "/my-website/static/js/2.38f7af8f.chunk.js",
+    "static/js/2.38f7af8f.chunk.js.map": "/my-website/static/js/2.38f7af8f.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/my-website/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.d2535845.chunk.css.map": "/my-website/static/css/main.d2535845.chunk.css.map",
+    "static/js/2.38f7af8f.chunk.js.LICENSE.txt": "/my-website/static/js/2.38f7af8f.chunk.js.LICENSE.txt",
+    "static/media/Jacob.4b2a246b.jpg": "/my-website/static/media/Jacob.4b2a246b.jpg",
+    "static/media/Juvenal.b5c3a987.JPG": "/my-website/static/media/Juvenal.b5c3a987.JPG",
+    "static/media/Martial.fe3411ea.jpg": "/my-website/static/media/Martial.fe3411ea.jpg",
+    "static/media/Michou.e374216f.jpg": "/my-website/static/media/Michou.e374216f.jpg",
+    "static/media/Philipes.43c31172.jpg": "/my-website/static/media/Philipes.43c31172.jpg",
+    "static/media/fichier.9f279673.zip": "/my-website/static/media/fichier.9f279673.zip",
+    "static/media/Home.css": "/my-website/static/media/nadia.36920fb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23dd3388.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.38f7af8f.chunk.js",
+    "static/css/main.d2535845.chunk.css",
+    "static/js/main.e157f72e.chunk.js"
+  ]
+}
